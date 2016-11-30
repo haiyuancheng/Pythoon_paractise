@@ -16,5 +16,6 @@ def binary_search(number):
 		print i, j
 	print 'the index is ' + str(i) + '\n' + 'the value is ' + str(j) + '\n'
 	return 'the index is '+ str(i)
+	return 
 
 binary_search(100)
